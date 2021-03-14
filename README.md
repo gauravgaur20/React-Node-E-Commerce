@@ -1,3 +1,4 @@
+![Screenshot (169)](https://user-images.githubusercontent.com/44099058/111085325-ee735580-853c-11eb-8a58-b511087ebf2a.png)
 # React-Node-E-Commerce
 
 • Developed a online shopping application using Node.js and React Native
