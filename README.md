@@ -36,3 +36,6 @@ Enter admin email and password and click signin
 
 Run http://localhost:3000/products
 Click create product and enter product info
+
+![Screenshot (168)](https://user-images.githubusercontent.com/44099058/111085302-cd126980-853c-11eb-933f-3a382d41c341.png)
+
