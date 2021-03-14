@@ -1,5 +1,13 @@
 # React-Node-E-Commerce
 
+• Developed a online shopping application using Node.js and React Native
+where registered users can select from a variety of product
+
+
+• Only admin can create new products and decide their price/specification
+and delete existing products
+
+
 1. Run Backend
    $ npm install
    $ npm start
